@@ -1,5 +1,5 @@
 {
-  "name": "asink",
+  "name": "async-await-example",
   "version": "1.0.0",
   "description": "Simple project to demo Asyc Await",
   "main": "index.js",
