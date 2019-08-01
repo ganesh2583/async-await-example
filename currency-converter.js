@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const axios = require("axios")
 
-export const accessKey = "bbff0a36eba1eaa4db774a1e4b1b8fdd";
+export const accessKey = "<YOUR_ACCESS_KEY>";
 
 export const currenyConverterUrl = `http://apilayer.net/api/live?access_key=${accessKey}`
 
